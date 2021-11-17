@@ -6,4 +6,4 @@
 ## Навигация по вопросам.   
 Цвета обозначают сложность вопроса.
 1. Зеленые
-+ [Правда, что в этом языке все объекты.](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/everything-object.md)
++ [Правда, что в этом языке все объекты.](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/everything-object.md)
