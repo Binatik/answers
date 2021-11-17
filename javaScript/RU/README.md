@@ -7,6 +7,6 @@
 Цвета обозначают сложность вопроса.
 1. Зеленые
 + [Правда, что в этом языке все объекты.](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/everything-object.md)  
-
-1. Синие
-+ [Что такое область видимости](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/zone.md) 
+___
+2. Синие
++ [Что такое область видимости](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/dark-blue/nesting.md) 
