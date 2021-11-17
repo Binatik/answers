@@ -9,7 +9,8 @@ const globalVar = 'Это глобальная переменная.';
     const localVarTwo =
       'Это локальная переменная еще ниже. localVar и globalVar для нее глобален.';
   }
-} 
+}  
+
 //https://gist.github.com/Binatik/e8584180fe49a3e7e6679a7fdca94a07
 ``` 
 - Когда мы погружаемся через `{local}` - предыдущая на уровне выше `{global}`. 

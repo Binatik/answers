@@ -8,6 +8,7 @@ ____
 
 ```js
 const string = 'Это удобная запись инициализации переменной и обращение, как к строке.';  
-const objString = new String('Вот мы и доказали, что строка - это объект.'); 
+const objString = new String('Вот мы и доказали, что строка - это объект.');  
+
 //https://gist.github.com/Binatik/0e2fce25b41b74a1e8e83a6d33712959
 ```
