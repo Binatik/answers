@@ -9,5 +9,5 @@ ____
 ```js
 const string = 'Это удобная запись инициализации переменной и обращение, как к строке.';  
 const objString = new String('Вот мы и доказали, что строка - это объект.'); 
-//https://gist.github.com/Binatik/f36a3000d63897f9382ddf5dbc5c9173
+//https://gist.github.com/Binatik/0e2fce25b41b74a1e8e83a6d33712959
 ```
