@@ -6,9 +6,12 @@
 ## Навигация по вопросам.   
 Цвета обозначают сложность вопроса.
 1. Зеленые
-+ [Правда, что в этом языке все объекты.](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/everything-object.md)  
++ [Правда, что в этом языке все объекты.](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/everything-object.md)   
+
+- ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода.
 ___
 2. Синие
 + [Что такое область видимости](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/dark-blue/nesting.md)   
-+ [Что такое контекст и как им управлять](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/dark-blue/this.md)  
++ [Что такое контекст и как им управлять](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/dark-blue/this.md)   
 
+- ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода.
