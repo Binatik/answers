@@ -6,7 +6,9 @@
 ## Навигация по вопросам.   
 Цвета обозначают сложность вопроса.
 1. Зеленые
-+ [Правда, что в этом языке все объекты.](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/everything-object.md)   
++ [Правда, что в этом языке все объекты.](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/everything-object.md)    
++ [Какие типы данных вы знаете.](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/types.md)    
+ 
 
 - ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода.
 ___
