@@ -10,22 +10,24 @@ const windowthis = this;
 
 ```js 
 const shop = {
-  vegetable: {},
   fruit: {},
   getPrice(price) {
     //shop.fruit > this = shop;
     return { ...this, fruit: price };
   },
 }; 
+const thisShopFruitPrice = shop.getPrice(5);
 ``` 
 > До точки у нас shop, именно он и есть контекст. 
 
 ___ 
-Вы можете изменить контекст программы используя встроенные функции javaScript.   
-`bind()` `apply()` `call()` 
-Возьмем код, что выше, но изменим контекст. 
+Вы можете изменить контекст программы используя встроенные функции javaScript.    
+
+- Возьмем код, `shop.getPrice(5);` но изменим контекст. 
 ```js 
-{ ...this.getPrice.bind(this.fruit), fruit: price}; 
+shop.getPrice.bind(shop.fruit, 5)(); //bind - нужно вызывать; 
+shop.getPrice.call(shop.fruit, 2); //call - не нужно вызывать;  
+shop.getPrice.apply(shop.fruit, [2]); //apply - не нужно вызывать; 
 
 //https://gist.github.com/Binatik/f17994f2d8f3172fc4321bfe0604cb65
 ```
