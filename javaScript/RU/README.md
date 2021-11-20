@@ -8,7 +8,8 @@
 1. Зеленые - `На освоение одного из материала 1-2 часа.`
 + [Правда, что в этом языке все объекты](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/everything-object.md)    
 + [Какие типы данных вы знаете](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/types.md)     
-+ [Как создать переменную и в чем разница](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/create-variable.md)   
++ [Как создать переменную и в чем разница](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/create-variable.md)    
++ [Зачем нужны функции](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/green/functions.md)  
  
 
 - ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода.
