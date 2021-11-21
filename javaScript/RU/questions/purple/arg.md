@@ -45,4 +45,6 @@ const emojis = getStatusOk();
 const error = getStatus404();
 
 emojis.forEach((emoji) => console.log(`смайлик ${emoji}`));
+
+//https://gist.github.com/Binatik/e0bbcb6fd247d054572e4b1ff88405ca
 ```
