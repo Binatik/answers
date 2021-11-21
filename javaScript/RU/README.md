@@ -14,8 +14,11 @@
 
 - ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода.
 ___
-2. Синие `На освоение одного из материала 8-16 часов.`
+2. Синие `На освоение одного из материала 4-8 часов.`
 + [Что такое область видимости](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/dark-blue/nesting.md)   
 + [Что такое контекст и как им управлять](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/dark-blue/this.md)   
 
-- ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода.
+- ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода. 
+___ 
+3. Фиолетовые `На освоение одного из материала 10-17 часов.`
++ [Аргументы у функции](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/dark-blue/nesting.md)   
