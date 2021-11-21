@@ -21,4 +21,4 @@ ___
 - ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода. 
 ___ 
 3. Фиолетовые `На освоение одного из материала 10-17 часов.`
-+ [Аргументы у функции](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/dark-blue/nesting.md)   
++ [Аргументы у функции и параметры](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/purple/arg.md)   
