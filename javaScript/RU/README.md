@@ -22,6 +22,6 @@ ___
 ___ 
 3. Фиолетовые `На освоение одного из материала 10-17 часов.`
 + [Аргументы у функции и параметры](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/purple/arg.md)     
-+ [Замыкание функции](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/purple/arg.md) 
++ [Замыкание функции](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/purple/circuit.md) 
 
 - ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода. 
