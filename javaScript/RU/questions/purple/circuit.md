@@ -35,5 +35,7 @@ function getLinksFunction(str) {
 const linkOneFunction = getLinksFunction('замыкаются');
 const linkTwoFunction = linkOneFunction();
 const linkThreeFunction = linkTwoFunction('функции не вызываются');
-const result = linkThreeFunction();
+const result = linkThreeFunction(); 
+
+//https://gist.github.com/Binatik/847d5973ebb3956797f3c090d2badd71
 ```
