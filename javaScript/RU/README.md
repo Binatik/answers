@@ -29,6 +29,6 @@ ___
 
 ___ 
 3. Жёлтые `На освоение одного из материала выше 15 часов.`
-+ [Принцип группировки кода - блок](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/yellow/grouping.md)     
++ [Программирования используя блок - группировка кода](https://github.com/Binatik/answers/blob/main/javaScript/RU/questions/yellow/grouping.md)     
 
 - ###### Пожалуйста не игнорируйте gist. Там написаны примеры и присутствует реализация кода. 
